@@ -1,0 +1,13 @@
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Array2D\Array2D\bin\Debug\netcoreapp3.1\Array2D.exe
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Array2D\Array2D\bin\Debug\netcoreapp3.1\Array2D.deps.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Array2D\Array2D\bin\Debug\netcoreapp3.1\Array2D.runtimeconfig.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Array2D\Array2D\bin\Debug\netcoreapp3.1\Array2D.runtimeconfig.dev.json
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Array2D\Array2D\bin\Debug\netcoreapp3.1\Array2D.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Array2D\Array2D\bin\Debug\netcoreapp3.1\Array2D.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Array2D\Array2D\obj\Debug\netcoreapp3.1\Array2D.csprojAssemblyReference.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Array2D\Array2D\obj\Debug\netcoreapp3.1\Array2D.AssemblyInfoInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Array2D\Array2D\obj\Debug\netcoreapp3.1\Array2D.AssemblyInfo.cs
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Array2D\Array2D\obj\Debug\netcoreapp3.1\Array2D.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Array2D\Array2D\obj\Debug\netcoreapp3.1\Array2D.dll
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Array2D\Array2D\obj\Debug\netcoreapp3.1\Array2D.pdb
+D:\DHTX-VB2\Nhap-Mon-Lap-Trinh\Array2D\Array2D\obj\Debug\netcoreapp3.1\Array2D.genruntimeconfig.cache
